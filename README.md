@@ -1,2 +1,2 @@
 # OperatingSystems
-OS course projects at UTD
+OS course projects
